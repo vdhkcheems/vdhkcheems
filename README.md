@@ -2,6 +2,8 @@
 
 This is Vdhkcheems
 
+I'm currently doing the Harvard CS50 course
+
 <!--
 **vdhkcheems/vdhkcheems** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
