@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This is Vdhkcheems
+This is vdhkcheems
 
 I'm currently doing the Harvard CS50 course
 
