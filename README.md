@@ -15,7 +15,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/vdhkcheems=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Stats:
-![](https://raw.githubusercontent.com/vdhkcheems/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![stats](https://raw.githubusercontent.com/vdhkcheems/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 <!--
 **vdhkcheems/vdhkcheems** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
