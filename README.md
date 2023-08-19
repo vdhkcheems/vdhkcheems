@@ -2,7 +2,7 @@
 
 👦This is vdhkcheems
 
-📚I'm currently doing the Harvard CS50 course.
+📚I'm currently doing the MIT Python 6.0001.
 
 ---
 
