@@ -4,6 +4,8 @@
 
 📚I'm currently doing the MIT Python 6.0001.
 
+☘️ I'm interested in Machine learning and Artificial Intelligence
+
 ---
 
 ### 📊 My Stats:
