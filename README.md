@@ -1,11 +1,13 @@
 ### Hi there 👋
 
-👦This is vdhkcheems
+👦This is vdhkcheems, I am a first year undergrad student.
 
-📚I'm currently doing the MIT Python 6.0001.
+📚I'm currently doing the MIT Python 6.0001 and Machine learning Course by Andrew NG of Stanford University.
 
-☘️ I'm interested in Machine learning and Artificial Intelligence
+☘️ I'm interested in Machine learning and Artificial Intelligence.
 
+
+⬇️ I try to share everything I do on here
 ---
 
 ### 📊 My Stats:
