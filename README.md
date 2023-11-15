@@ -2,7 +2,7 @@
 
 😁This is vdhkcheems, I am a first year undergrad student.
 
-👨‍💻Member of GDSC-NSUT, Codechef-NSUT Chapter and NSUT.AI all in ML department 
+👨‍🎓Member of GDSC-NSUT, Codechef-NSUT Chapter and NSUT.AI all in ML department 
 
 📚I'm currently doing the MIT Python 6.0001 and Machine learning Course by Andrew NG of Stanford University.
 
