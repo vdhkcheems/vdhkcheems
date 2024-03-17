@@ -1,12 +1,8 @@
 ### Hi there 
 
-😁This is vdhkcheems, I am a first year undergrad student.
+😁This is vdhkcheems, I am a undergrad student in NSUT.
 
-💻Member of GDSC-NSUT, Codechef-NSUT Chapter and NSUT.AI all in ML department 
-
-📚I'm currently doing the MIT Python 6.0001 and Machine learning Course by Andrew NG of Stanford University.
-
-☘️ I'm interested in Machine learning and Artificial Intelligence.
+💻 I am interested in Machine learning and data science.
 
 🎮My hobbies are watching anime and playing video games
 
