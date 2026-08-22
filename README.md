@@ -80,9 +80,3 @@ flowchart LR
   <br />
   Anime, video games, and occasionally rebuilding a neural network from scratch just to make sure the abstractions still make sense.
 </details>
-
-<br />
-
-<div align="center">
-  <i>Open to applied AI, ML engineering, and data science roles where models meet messy reality.</i>
-</div>
