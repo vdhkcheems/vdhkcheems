@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="126" height="28" viewBox="0 0 126 28" role="img" aria-labelledby="title">
+  <title id="title">X — @antrskarya</title>
+  <rect x=".5" y=".5" width="125" height="27" rx="3" fill="#0D1117" stroke="#30363D"/>
+  <g transform="translate(8 6) scale(.03125)" fill="#fff">
+    <path d="M389.2 48h70.6L305.6 224.2 487 464H345L233.8 318.6 106.5 464H35.8l164.9-188.5L26.8 48H172.4l100.5 132.9L389.2 48zm-24.8 373.8h39.1L151.1 88h-42l255.3 333.8z"/>
+  </g>
+  <text x="76" y="18" fill="#fff" text-anchor="middle" font-family="Verdana, Geneva, sans-serif" font-size="10" font-weight="700">@ANTRSKARYA</text>
+</svg>
