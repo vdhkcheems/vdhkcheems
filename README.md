@@ -109,9 +109,9 @@ flowchart TB
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vdhkcheems/vdhkcheems/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vdhkcheems/vdhkcheems/output/github-contribution-grid-snake.svg" />
-    <img alt="Animated snake eating Antriksh's GitHub contributions" src="https://raw.githubusercontent.com/vdhkcheems/vdhkcheems/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vdhkcheems/vdhkcheems/output/github-contribution-grid-snake-dark.svg?v=blue" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vdhkcheems/vdhkcheems/output/github-contribution-grid-snake.svg?v=blue" />
+    <img alt="Animated blue snake eating Antriksh's GitHub contributions" src="https://raw.githubusercontent.com/vdhkcheems/vdhkcheems/output/github-contribution-grid-snake.svg?v=blue" />
   </picture>
 </div>
 
