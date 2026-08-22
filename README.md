@@ -11,12 +11,13 @@
 
 <br />
 
-I turn messy data and workflows into **AI systems people can actually use**. My sweet spot is the layer between a promising model and a dependable product: retrieval, evaluation, structured extraction, automation, and the backend glue that makes it all work.
+I turn messy data and workflows into **data + AI systems people can actually use**. My sweet spot is the layer between raw signals and a dependable product: pipelines, retrieval, evaluation, structured extraction, automation, and the backend glue that makes it all work.
+
+> Currently building data systems as a **Data Engineering Intern** at [**New Engen**](https://www.newengen.com) ↗
 
 ```text
 current_quest  → building Objection!, a rules-first AI courtroom simulator
-recently       → Applied AI & Data Science @ CMN Labs
-interested_in  → LLM products · retrieval systems · agents · production ML
+building_with  → data pipelines · LLM products · retrieval · automation
 operating_from → India (UTC+5:30)
 ```
 
@@ -67,12 +68,55 @@ operating_from → India (UTC+5:30)
 
 <br />
 
+## `> the_systems_map`
+
 ```mermaid
-flowchart LR
-    A[Messy inputs] --> B[Retrieval + extraction]
-    B --> C[Evaluation gates]
-    C --> D[Useful product]
-    D -. feedback .-> B
+flowchart TB
+    subgraph SIGNALS["01 · RAW SIGNALS"]
+        direction LR
+        A1["APIs"]
+        A2["Product events"]
+        A3["Documents + web"]
+        A4["Batch files"]
+    end
+
+    subgraph DATA["02 · TRUSTED DATA PLANE"]
+        direction LR
+        B1["INGEST<br/>batch · stream · CDC"] --> B2["CONTRACTS<br/>schema · quality · lineage"]
+        B2 --> B3["TRANSFORM<br/>SQL · Python · Spark"]
+        B3 --> B4["STORE<br/>warehouse · lakehouse"]
+    end
+
+    subgraph INTELLIGENCE["03 · INTELLIGENCE LAYER"]
+        direction LR
+        C1["INDEX<br/>dense · sparse · metadata"] --> C2["RETRIEVE<br/>hybrid search · rerank"]
+        C2 --> C3["REASON<br/>ML · LLM · rules"]
+        C3 --> C4["EVALUATE<br/>gates · traces · drift"]
+    end
+
+    subgraph DELIVERY["04 · DELIVERY + FEEDBACK"]
+        direction LR
+        D1["SERVE<br/>APIs · data products"] --> D2["ACT<br/>agents · automations"]
+        D2 --> D3["OBSERVE<br/>latency · cost · quality"]
+        D3 --> D4["LEARN<br/>feedback · iteration"]
+    end
+
+    A1 --> B1
+    A2 --> B1
+    A3 --> B1
+    A4 --> B1
+    B4 --> C1
+    C4 --> D1
+    D4 -. "close the loop" .-> B2
+
+    classDef source fill:#161b22,stroke:#58a6ff,color:#c9d1d9,stroke-width:1px;
+    classDef pipeline fill:#0d1117,stroke:#7ee787,color:#c9d1d9,stroke-width:2px;
+    classDef intelligence fill:#0d1117,stroke:#d2a8ff,color:#c9d1d9,stroke-width:2px;
+    classDef delivery fill:#0d1117,stroke:#ffa657,color:#c9d1d9,stroke-width:2px;
+    class A1,A2,A3,A4 source;
+    class B1,B2,B3,B4 pipeline;
+    class C1,C2,C3,C4 intelligence;
+    class D1,D2,D3,D4 delivery;
 ```
 
 <details>
