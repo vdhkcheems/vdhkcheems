@@ -16,7 +16,7 @@ I turn messy data and workflows into **data + AI systems people can actually use
 > Currently building data systems as a **Data Engineering Intern** at [**New Engen**](https://www.newengen.com) ↗
 
 ```text
-current_quest  → building Objection!, a rules-first AI courtroom simulator
+previously  → Data Science and Applied AI Intern @ [**CMN Labs**](https://www.castmenow.co) ↗
 building_with  → data pipelines · LLM products · retrieval · automation
 operating_from → India (UTC+5:30)
 ```
