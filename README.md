@@ -4,8 +4,8 @@
 
 <div align="center">
   <a href="https://antrskarya.vercel.app"><img src="https://img.shields.io/badge/portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=7ee787" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/antriksharya"><img src="./assets/linkedin-badge.svg" height="28" alt="LinkedIn" /></a>
-  <a href="https://x.com/antrskarya"><img src="./assets/x-badge.svg" height="28" alt="X — @antrskarya" /></a>
+  <a href="https://www.linkedin.com/in/antriksharya"><img src="./assets/linkedin-badge.svg?v=dark" height="28" alt="LinkedIn" /></a>
+  <a href="https://x.com/antrskarya"><img src="./assets/x-badge.svg?v=dark" height="28" alt="X — @antrskarya" /></a>
   <a href="https://kaggle.com/antriksharya"><img src="https://img.shields.io/badge/kaggle-0d1117?style=for-the-badge&logo=kaggle&logoColor=58a6ff" alt="Kaggle" /></a>
   <a href="mailto:antriksh0704@gmail.com"><img src="https://img.shields.io/badge/say_hi-0d1117?style=for-the-badge&logo=gmail&logoColor=f85149" alt="Email Antriksh" /></a>
 </div>
