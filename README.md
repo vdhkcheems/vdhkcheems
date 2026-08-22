@@ -46,20 +46,6 @@ operating_from → India (UTC+5:30)
   </tr>
 </table>
 
-## `> proof_of_work`
-
-<div align="center">
-
-| `83.88 F1` | `1M+ records` | `11th / 50K+` | `3× medals` |
-|:---:|:---:|:---:|:---:|
-| role-matching holdout | shaped into business datasets | Amazon ML Challenge '25 | Kaggle competitions |
-
-</div>
-
-- Built an auditable prompt-optimization loop with deterministic splits and acceptance gates, lifting holdout F1 from **77.21 → 83.88**.
-- Engineered hybrid retrieval with **Qdrant, SPLADE, and dense embeddings** across production datasets.
-- Expanded browser-agent automation from **3 → 8 external platforms**.
-
 ## `> systems_i_reach_for`
 
 <div align="center">
@@ -118,6 +104,16 @@ flowchart TB
     class C1,C2,C3,C4 intelligence;
     class D1,D2,D3,D4 delivery;
 ```
+
+## `> contribution_arcade`
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vdhkcheems/vdhkcheems/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vdhkcheems/vdhkcheems/output/github-contribution-grid-snake.svg" />
+    <img alt="Animated snake eating Antriksh's GitHub contributions" src="https://raw.githubusercontent.com/vdhkcheems/vdhkcheems/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
 
 <details>
   <summary><b>off the clock</b></summary>
