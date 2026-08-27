@@ -26,19 +26,27 @@ operating_from → India (UTC+5:30)
 
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <h3>🔮 AURA</h3>
-      <p>A grounded research companion that answers from retrieved paper evidence—not just model memory.</p>
+      <p>A research-paper companion built around curated, provenance-aware retrieval with inspectable source evidence.</p>
       <p><code>Next.js</code> <code>Qdrant</code> <code>Gemini</code> <code>RAG</code></p>
       <a href="https://github.com/vdhkcheems/AURA"><b>source ↗</b></a> · <a href="https://aura-aa.vercel.app"><b>live ↗</b></a>
     </td>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
+      <h3>📦 Fulfillment Triage MCP</h3>
+      <p>A safety-first MCP workflow for investigating delayed fulfillment and creating auditable human escalations.</p>
+      <p><code>TypeScript</code> <code>PostgreSQL</code> <code>MCP</code> <code>Zod</code></p>
+      <a href="https://github.com/vdhkcheems/fulfillment-triage-mcp"><b>source ↗</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3>⚖️ Objection!</h3>
       <p>A courtroom strategy game where LLM dialogue is constrained by a locked, testable case-state engine.</p>
       <p><code>FastAPI</code> <code>Next.js</code> <code>Pydantic</code> <code>LLMs</code></p>
       <a href="https://github.com/vdhkcheems/objection"><b>active build ↗</b></a>
     </td>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <h3>✍️ Essay Scorer</h3>
       <p>A fine-tuned DeBERTa-v3-large scoring pipeline exposed as a real-time inference API.</p>
       <p><code>PyTorch</code> <code>Transformers</code> <code>FastAPI</code> <code>NLP</code></p>
